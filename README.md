@@ -1,5 +1,5 @@
-# Práctica 6 - API REST de productos 
-Derek Montas 2025-0943
+# Práctica 6 - API REST de productos -- Derek Montas 2025-0943
+
 
 ## Cómo ejecutar
 
